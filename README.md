@@ -1,2 +1,19 @@
-# quiz
-Built an Awesome Quiz Application using Python and Tkinter! It features multiple-choice questions, a countdown timer, instant answer feedback, score tracking, and a clean custom UI. This project helped me improve my GUI programming skills and understand event-driven design. Excited to add more features soon!
+# Awesome Quiz Application
+
+A simple and interactive Quiz Application built with Python and Tkinter.
+
+## Features
+
+- Multiple-choice questions with 4 options each  
+- Countdown timer for each question (15 seconds)  
+- Instant feedback for correct/incorrect answers with colors and symbols  
+- Score tracking and final result display  
+- Custom UI without default title bar and with a close button  
+- Centered and responsive window layout  
+
+## How to Run
+
+1. Make sure you have Python installed (version 3.x recommended)  
+2. Run the `quiz_app.py` file:
+   ```bash
+   python quiz_app.py
